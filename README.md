@@ -43,4 +43,4 @@ Clona el repositorio y ejecuta el script para usar el programa en tu entorno loc
 ```bash
 git clone https://github.com/valezks2/monte-carlo
 cd monte-carlo
-python "monte carlo.py"
+python monte-carlo.py
